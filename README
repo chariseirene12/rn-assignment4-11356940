@@ -1,0 +1,25 @@
+Job Finder App
+
+The Job Finder App is designed to help users find job opportunities quickly and efficiently. Users can log in to access personalized job listings, including featured jobs and popular jobs.
+
+Features
+Log In Page
+Usage: Allows users to log in to their accounts.
+Components:
+Username Field: Input field for the username.
+Email Field: Input field for the Email.
+Log In Button: Submits the login form.
+Home Page
+Usage: Displays job listings to the user.
+Components:
+Header: Contains navigation links and user profile access.
+Featured Jobs Section: Displays a curated list of highlighted job opportunities.
+Popular Jobs Section: Shows a list of jobs that are trending among users.
+Search Bar: Allows users to search for jobs by keywords.
+Job Cards: Individual cards displaying job title, company name, and a brief description.
+
+![screenshots](assets/Screenshots/SS1.jpeg)
+![screenshots](assets/Screenshots/SS2.jpeg)
+![screenshots](assets/Screenshots/SS3.jpeg)
+![screenshots](assets/Screenshots/SS4.jpeg)
+![screenshots](assets/Screenshots/SS5.jpeg)
